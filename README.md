@@ -107,17 +107,6 @@ esp32/
 
 ---
 
-## how to run it
-
-```bash
-# clone repo
-git clone https://github.com/Prabhav1437/esp-neural-compute-engine.git
-cd esp-neural-compute-engine/esp32
-
-# build, flash to esp32, and open interactive terminal
-./pipeline.sh
-```
-
 ### example session output:
 
 ```text
