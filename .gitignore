@@ -1,0 +1,15 @@
+# Build artifacts
+.pio/
+.venv/
+bin/
+build/
+
+# IDE & Config files
+AGENTS.md
+.agents/
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
