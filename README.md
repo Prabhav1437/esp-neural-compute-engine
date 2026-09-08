@@ -174,9 +174,3 @@ Raspberry Pi (Host)                 ESP32 (Compute Node)
 ```
 
 it's definitely going to be slow because of serial transfer bottlenecks, but speed isn't the point — learning how to squeeze inference into memory-constrained hardware is.
-
----
-
-## license
-
-MIT
